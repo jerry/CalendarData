@@ -1,8 +1,6 @@
 # CalendarData
 
-I've been developing a paper-based daily planner designed for individuals with attention-deficit issues and I needed a list of days that would work cleanly with InDesign. 
-
-The output therefrom, calendar.txt, is a big fat tab-separated value file with information about each day from 1/1/2011 through 12/31/2021 generated inside Excel 2010 on a Mac. 
+I've been developing a paper-based daily planner designed for individuals with attention-deficit issues and I needed a list of days that would work cleanly with InDesign. The output therefrom, calendar.txt, is a big fat tab-separated value file with information about each day from 1/1/2011 through 12/31/2021 generated inside Excel 2010 on a Mac. 
 
 ## Non-Obvious Fields
 
@@ -71,4 +69,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 If you want to add or revise this data, send me a push request...
 
-* [https://github.com/disruptive/CalendarData](https://github.com/disruptive/CalendarData)
+* [https://github.com/jerry/CalendarData](https://github.com/jerry/CalendarData)
